@@ -1,0 +1,49 @@
+{
+    "id": "1",
+    "first_name": "William",
+    "last_naem": "Thomason",
+    "birthday": "4/7/1986",
+    "username":	"Dev335",
+    "invoice": [
+        {"id": "1",
+        "date_created": "5/10/2019",
+        "date_shipped": "5/12/2019",
+        "subtotal": "10.00",
+        "tax": "2.50",
+        "total": "12.50"
+        "line_item":[{
+                "id": "1",
+                "name": "Pencil",
+                "price": "1.00",
+                "quantity": "5"
+            },
+            {
+                "id": "2",
+                "name": "Eraser",
+                "price": "1.00",
+                "quantity": "5"
+            }
+            ]
+        },
+        {"id": "2",
+        "date_created": "5/15/2019",
+        "date_shipped": "5/17/2019",
+        "subtotal": "25.00",
+        "tax": "5.50",
+        "total": "30.50"
+        "line_item":[{
+                "id": "1",
+                "name": "Notebook",
+                "price": "5.00",
+                "quantity": "4"
+            },
+            {
+                "id": "2",
+                "name": "Folder",
+                "price": "1.00",
+                "quantity": "5"
+            }
+            ]
+        }
+    ]
+}
