@@ -1,0 +1,46 @@
+{
+'class':[
+	{
+	'id': 1,
+	'name': 'Advanced PHP'
+	'enroll':[
+		{
+		'id': 1,
+		'grade': 'A'
+		},
+		{
+		'id': 2,
+		'grade': 'F'
+		}
+	]
+	},
+	{
+	'id': 2,
+	'name': 'HTML & CSS'
+	'enroll':[
+		{
+		'id': 1,
+		'grade': 'B'
+		},
+		{
+		'id': 2,
+		'grade': 'A'
+		}
+	]
+	}
+],
+ 'student': [
+	{
+	'id': 1,
+	'first_name': 'William',
+	'last_name': 'Thomason',
+	'mi': 'T'
+	},
+	{
+	'id': 2,
+	'first_name': 'Joe',
+	'last_name': 'Rogan',
+	'mi': 'D'
+	}
+ ]
+}
