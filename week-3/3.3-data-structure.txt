@@ -1,0 +1,47 @@
+
+
+
+
+                  {
+                    'publisher_name': 'Publish Works',
+                    'publisher_code': 'ABC123',
+                    'publisher_address':'505 West street'
+                    ‘authors: [
+                        {
+                      'author_first_name': 'Andy',
+                      'author_last_name': 'Andrews',
+                      'author_phone': '555-555-5555',
+                      'author_email': 'Andy@publishworks.com',
+                      ‘books’:[
+                          {
+                          'book_isbn': '1',
+                          'book_name': 'The Noticer',
+                          'book_price': '9.99'
+                          },
+                          {
+                          'book_isbn': '2',
+                          'book_name': 'Black Hat',
+                          'book_price': '19.99'
+                          }
+                        ]
+                      },
+                      {
+                      'author_first_name': 'Jill',
+                      'author_last_name': 'Harington',
+                      'author_phone': '555-555-5555',
+                      'author_email': 'Jill@publishworks.com',
+                      ‘books’:[
+                          {
+                          'book_isbn': '4',
+                          'book_name': 'The Blue Bird',
+                          'book_price': '9.99'
+                          },
+                          {
+                          'book_isbn': '5',
+                          'book_name': 'The Mocking Jay',
+                          'book_price': '20.99'
+                          }
+                        ]
+                      }
+                    ]
+                  }
