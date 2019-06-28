@@ -23,15 +23,10 @@ db.users.update_one(
     {"employee_id": "6825491"},
 
     {
-
         "$set": {
-
             "email": "Jesse.Freeman@me.com"
-
         }
-
     }
-
 )
 
 pprint.pprint(db.users.find_one({"employee_id": "6825491"}))
